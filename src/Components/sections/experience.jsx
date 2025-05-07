@@ -1,3 +1,5 @@
+/* EXPERIENCE */
+
 import { useState, useRef, useEffect } from "react";
 import { useInView } from "react-intersection-observer"; // For fade-in effect
 import { RevealOnScroll } from "../RevealOnScroll"; // Ensure RevealOnScroll is defined correctly

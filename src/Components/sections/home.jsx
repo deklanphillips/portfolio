@@ -1,7 +1,9 @@
+/* HOME */
+
 import { useEffect, useState } from "react";
 import { FaEnvelope } from "react-icons/fa";
 
-const kukaGif = "/kuka.gif"; // Path from public/
+const kukaGif = "/portfolio/kuka.gif"; // Correct path from public/
 
 export const Home = () => {
   const [text, setText] = useState("");
@@ -32,7 +34,6 @@ export const Home = () => {
       className="min-h-screen flex items-center justify-center relative bg-[#0A1E3C] text-white font-[Mandali]"
     >
       <div className="text-center z-10 px-4 relative">
-        
         {/* KUKA Robot GIF centered with slow animation */}
         <div className="absolute top-[-250px] left-1/2 transform -translate-x-1/2 w-50 kuka-gif">
           <img src={kukaGif} alt="KUKA Robot" className="w-full h-auto mx-auto" />

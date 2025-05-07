@@ -1,3 +1,6 @@
+/* NAVBAR */
+
+
 import { useEffect } from "react";
 import {
   AiFillGithub,
