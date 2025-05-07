@@ -27,7 +27,7 @@ export const Home = () => {
 
     return () => clearTimeout(timeout);
   }, []);
-
+  
   return (
     <section 
       id="home" 
