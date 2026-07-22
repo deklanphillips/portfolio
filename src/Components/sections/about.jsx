@@ -21,7 +21,7 @@ export const About = () => {
               <p className="mb-6 text-lg leading-relaxed">
                 I am currently a <span className="font-bold">Product Data Engineer</span> at{" "}
                 <a
-                  href="https://www.anduril.com"
+                  href="https://www.anduril.com/mission"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-[#64FFDA] font-semibold hover:underline"

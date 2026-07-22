@@ -9,7 +9,7 @@ export const Experience = () => {
     {
       company: "Anduril",
       title: "Product Data Engineer, Configuration Management",
-      companyLink: "https://www.anduril.com",
+      companyLink: "https://www.anduril.com/mission",
       date: "Feb 2026 – Present",
       points: [
         "Manage configuration and change control processes for product data, ensuring accuracy and traceability across the product lifecycle.",
