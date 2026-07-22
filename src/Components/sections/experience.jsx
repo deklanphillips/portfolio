@@ -7,6 +7,18 @@ import { RevealOnScroll } from "../RevealOnScroll"; // Ensure RevealOnScroll is 
 export const Experience = () => {
   const jobs = [
     {
+      company: "Anduril",
+      title: "Product Data Engineer, Configuration Management",
+      companyLink: "https://www.anduril.com",
+      date: "Feb 2026 – Present",
+      points: [
+        "Manage configuration and change control processes for product data, ensuring accuracy and traceability across the product lifecycle.",
+        "Maintain product data structures, bills of materials, and engineering change records to support cross-functional teams.",
+        "Partner with engineering, manufacturing, and program teams to keep product definitions consistent and up to date.",
+        "Develop and improve data workflows and tooling to streamline configuration management and reporting."
+      ],
+    },
+    {
       company: "Centr",
       title: "Project Manager, New Product Development",
       companyLink: "https://centr.com",

@@ -19,7 +19,17 @@ export const About = () => {
             {/* Left Content */}
             <div className="flex-1 max-w-2xl">
               <p className="mb-6 text-lg leading-relaxed">
-                I most recently served as a <span className="font-bold">Project Manager</span> at{" "}
+                I am currently a <span className="font-bold">Product Data Engineer</span> at{" "}
+                <a
+                  href="https://www.anduril.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-[#64FFDA] font-semibold hover:underline"
+                >
+                  Anduril
+                </a>{" "}
+                on the <span className="text-gray-300 font-semibold">Configuration Management</span> team, maintaining product data integrity and change control across the product lifecycle.
+                Previously, I led product launches and manufacturing execution as a <span className="text-gray-300 font-semibold">Project Manager</span> at{" "}
                 <a
                   href="https://centr.com/about-us"
                   target="_blank"
@@ -27,8 +37,7 @@ export const About = () => {
                   className="text-[#64FFDA] font-semibold hover:underline"
                 >
                   Centr
-                </a>{" "}
-                on the <span className="text-gray-300 font-semibold">New Product Development</span> team, leading product launches, supplier onboarding, and manufacturing execution.
+                </a>.
                 Currently pursuing an <span className="text-gray-300 font-semibold">Associate of Science</span> in <span className="text-gray-300 font-semibold">Mechanical Engineering</span> at{" "}
                 <a
                   href="https://www.norcocollege.edu"
