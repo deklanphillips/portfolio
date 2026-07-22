@@ -21,7 +21,7 @@ export const Experience = () => {
     },
     {
       company: "Tesla",
-      title: "Program Manager, New Product Introduction & Launch Engineering",
+      title: "New Product Introduction & Launch Engineering",
       companyLink: "https://tesla.com",
       date: "May 2022 – Sep 2024",
       points: [
