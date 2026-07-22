@@ -57,10 +57,6 @@ export const About = () => {
                   </div>
                 </div>
               </div>
-
-              <p className="text-lg leading-relaxed">
-                Outside of work, I'm interested in following the developments of science & collegiate sports.
-              </p>
             </div>
 
             {/* Right Image */}
