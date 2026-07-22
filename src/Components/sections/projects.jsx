@@ -52,7 +52,7 @@ export default function Projects() {
                   >
                     {idx <= 2 ? (
                       <img
-                        src="/portfolio/Tesla-logo.png"
+                        src="/Tesla-logo.png"
                         alt="Tesla Logo"
                         width={36}
                         height={36}

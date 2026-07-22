@@ -66,7 +66,7 @@ export const About = () => {
             {/* Right Image */}
             <div className="flex-1 flex justify-center items-center mt-8 md:mt-0">
               <img
-                src="/portfolio/profile.jpg"
+                src="/profile.jpg"
                 alt="profile"
                 className="rounded-xl w-72 h-auto object-cover shadow-lg"
               />

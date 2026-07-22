@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import { FaEnvelope } from "react-icons/fa";
 
-const kukaGif = "/portfolio/kuka.gif"; // Correct path from public/
+const kukaGif = "/kuka.gif"; // Served from public/ at the site root
 
 export const Home = () => {
   const [text, setText] = useState("");
