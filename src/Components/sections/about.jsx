@@ -19,7 +19,7 @@ export const About = () => {
             {/* Left Content */}
             <div className="flex-1 max-w-2xl">
               <p className="mb-6 text-lg leading-relaxed">
-                I am currently a <span className="font-bold">Project Manager</span> at{" "}
+                I most recently served as a <span className="font-bold">Project Manager</span> at{" "}
                 <a
                   href="https://centr.com/about-us"
                   target="_blank"
@@ -28,7 +28,7 @@ export const About = () => {
                 >
                   Centr
                 </a>{" "}
-                on the <span className="text-gray-300 font-semibold">New Product Development</span> team, leading product launches, supplier onboarding, and manufacturing execution. 
+                on the <span className="text-gray-300 font-semibold">New Product Development</span> team, leading product launches, supplier onboarding, and manufacturing execution.
                 Currently pursuing an <span className="text-gray-300 font-semibold">Associate of Science</span> in <span className="text-gray-300 font-semibold">Mechanical Engineering</span> at{" "}
                 <a
                   href="https://www.norcocollege.edu"

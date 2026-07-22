@@ -10,7 +10,7 @@ export const Experience = () => {
       company: "Centr",
       title: "Project Manager, New Product Development",
       companyLink: "https://centr.com",
-      date: "Sep 2024 – Present",
+      date: "Sep 2024 – Feb 2026",
       points: [
         "Led the successful launch of performance competition equipment for Hyrox, driving alignment with suppliers and ensuring on-time delivery of high-quality products tailored to competition standards.",
         "Assisted in directing the development and release of a new consumer treadmill for mass retailers, coordinating cross-functional teams to achieve product readiness for market launch while adhering to strict timelines and quality benchmarks.",
@@ -21,7 +21,7 @@ export const Experience = () => {
     },
     {
       company: "Tesla",
-      title: "Program Manager, New Product Introduction",
+      title: "Program Manager, New Product Introduction & Launch Engineering",
       companyLink: "https://tesla.com",
       date: "May 2022 – Sep 2024",
       points: [
@@ -34,7 +34,7 @@ export const Experience = () => {
     },
     {
       company: "Tesla",
-      title: "Business Systems Support Technician",
+      title: "Factory Software, Lineside Support",
       companyLink: "https://tesla.com",
       date: "Nov 2020 – May 2022",
       points: [

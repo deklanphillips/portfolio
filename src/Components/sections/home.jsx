@@ -46,9 +46,10 @@ export const Home = () => {
         </h1>
 
         {/* Shortened Introduction Text */} 
-        <p className="text-gray-200 text-lg mb-8 max-w-lg mx-auto"> 
-          I am a Program Manager in manufacturing, specializing in new product development and optimizing processes. 
-          I lead teams to drive innovation and ensure successful product launches.
+        <p className="text-gray-200 text-lg mb-8 max-w-lg mx-auto">
+          I am a Project Manager with experience in project management, change management,
+          and configuration management, driving new product launches and process improvements
+          from concept to delivery.
         </p>
 
         {/* Call to Action Button with Mailto */}
