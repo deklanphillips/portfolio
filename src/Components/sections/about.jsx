@@ -28,16 +28,7 @@ export const About = () => {
                 >
                   Anduril
                 </a>{" "}
-                on the <span className="text-gray-300 font-semibold">Configuration Management</span> team, maintaining product data integrity and change control across the product lifecycle.
-                Previously, I led product launches and manufacturing execution as a <span className="text-gray-300 font-semibold">Project Manager</span> at{" "}
-                <a
-                  href="https://centr.com/about-us"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-[#64FFDA] font-semibold hover:underline"
-                >
-                  Centr
-                </a>.
+                on the <span className="text-gray-300 font-semibold">Configuration Management</span> team, maintaining <span className="text-gray-300 font-semibold">BOM management standards</span>, defining <span className="text-gray-300 font-semibold">change management fundamentals</span>, and driving <span className="text-gray-300 font-semibold">BOM data analytics</span>.
                 Currently pursuing an <span className="text-gray-300 font-semibold">Associate of Science</span> in <span className="text-gray-300 font-semibold">Mechanical Engineering</span> at{" "}
                 <a
                   href="https://www.norcocollege.edu"
