@@ -49,11 +49,13 @@ export const About = () => {
                     <p><span className="text-[#64FFDA]">▸</span> Jira</p>
                     <p><span className="text-[#64FFDA]">▸</span> Asana</p>
                     <p><span className="text-[#64FFDA]">▸</span> CATIA V5</p>
+                    <p><span className="text-[#64FFDA]">▸</span> NX</p>
                   </div>
                   <div>
                     <p><span className="text-[#64FFDA]">▸</span> SolidWorks</p>
                     <p><span className="text-[#64FFDA]">▸</span> Confluence</p>
                     <p><span className="text-[#64FFDA]">▸</span> 3DExperience</p>
+                    <p><span className="text-[#64FFDA]">▸</span> Teamcenter</p>
                   </div>
                 </div>
               </div>
