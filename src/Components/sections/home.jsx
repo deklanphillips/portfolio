@@ -29,13 +29,13 @@ export const Home = () => {
   }, []);
   
   return (
-    <section 
-      id="home" 
-      className="min-h-screen flex items-center justify-center relative bg-[#0A1E3C] text-white font-[Mandali]"
+    <section
+      id="home"
+      className="min-h-screen flex items-center justify-center relative bg-[#0A1E3C] text-white font-[Mandali] py-24"
     >
-      <div className="text-center z-10 px-4 relative">
+      <div className="text-center z-10 px-4 relative flex flex-col items-center">
         {/* KUKA Robot GIF centered with slow animation */}
-        <div className="absolute top-[-250px] left-1/2 transform -translate-x-1/2 w-50 kuka-gif">
+        <div className="w-40 sm:w-48 md:w-56 mb-6 kuka-gif">
           <img src={kukaGif} alt="KUKA Robot" className="w-full h-auto mx-auto" />
         </div>
 
@@ -46,9 +46,10 @@ export const Home = () => {
         </h1>
 
         {/* Shortened Introduction Text */} 
-        <p className="text-gray-200 text-lg mb-8 max-w-lg mx-auto"> 
-          I am a Program Manager in manufacturing, specializing in new product development and optimizing processes. 
-          I lead teams to drive innovation and ensure successful product launches.
+        <p className="text-gray-200 text-lg mb-8 max-w-lg mx-auto">
+          I am a Project Manager with experience in project management, change management,
+          and configuration management, driving new product launches and process improvements
+          from concept to delivery.
         </p>
 
         {/* Call to Action Button with Mailto */}
